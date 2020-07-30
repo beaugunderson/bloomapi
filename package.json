@@ -15,7 +15,7 @@
     "sql": "~0.25.0",
     "js-yaml": "~2.1.0",
     "shelljs": "~0.1.4",
-    "mustache": "~0.7.2",
+    "mustache": "~4.0.1",
     "csvrow": "~0.1.0",
     "winston": "~0.7.2"
   },
